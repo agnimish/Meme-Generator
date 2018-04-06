@@ -1,0 +1,30 @@
+body{
+  padding-top: 5%;
+}
+
+.setting-value {
+	text-align: center;
+	font-weight: bold;
+}
+
+img#start-image {
+	position: absolute;
+	left: -10000px;
+	top: -10000px;
+}
+
+#meme{
+  border:1px solid;
+}
+
+.card{
+  border:2px solid !important;
+}
+
+.card-header{
+  border-bottom: 2px solid !important;
+}
+
+label{
+  font-weight: bold;
+}
